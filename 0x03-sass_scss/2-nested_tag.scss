@@ -1,0 +1,10 @@
+$new_bmargin_padding: 0;
+$new_pmargin_padding: 10px;
+
+body {
+  margin: $new_bmargin_padding;
+  padding: $new_bmargin_padding;
+    p {
+      margin: $new_pmargin_padding;
+    }
+  }
